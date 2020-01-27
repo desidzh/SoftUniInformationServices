@@ -1,0 +1,16 @@
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.exe
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.deps.json
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.json
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.dev.json
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.dll
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.pdb
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\SIS.HTTP.dll
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\SIS.MvcFramework.dll
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\SIS.MvcFramework.pdb
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\bin\Debug\netcoreapp3.0\SIS.HTTP.pdb
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csprojAssemblyReference.cache
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfoInputs.cache
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfo.cs
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csproj.CopyComplete
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.dll
+D:\Projects\Softuni_InformationServices\SIS\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.pdb
